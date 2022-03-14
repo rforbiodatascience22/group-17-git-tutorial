@@ -1,0 +1,1 @@
+Create an “.Rmd” document with any content (may be the default) in the “document” directory, but don’t knit it. Commit it.
